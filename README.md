@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Ekin Köylü</h1>
+<h1 align="center">Hi, I'm Ekin Köylü</h1>
 <p align="center"> CS student at Bilkent University</p>
 
 ---
