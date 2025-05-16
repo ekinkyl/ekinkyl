@@ -33,9 +33,8 @@
 ---
 
 🔗 Contact & Links
-<a href="mailto:ekinkoylu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ekinkoylu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://ekinkoylu.github.io"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=github&logoColor=white"/></a>
+<a href="mailto:ekinn.koylu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ekin-koylu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 
