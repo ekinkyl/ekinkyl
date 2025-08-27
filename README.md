@@ -5,8 +5,7 @@
 
 🚀 **Currently Exploring**  
 - Optimizing Vision Transformers for hardware efficiency  
-- Real-world deployment of scalable ML models  
-- Implementing and experimenting with YOLO-based CNN architectures for radar object detection
+- Implementing and experimenting with YOLO-based CNN architectures for object detection
 
 🛠️ **Tech Stack & Tools**  
 <p align="left">
