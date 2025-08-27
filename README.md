@@ -6,7 +6,7 @@
 🚀 **Currently Exploring**  
 - Optimizing Vision Transformers for hardware efficiency  
 - Real-world deployment of scalable ML models  
-- Custom ML pipelines with practical performance in mind  
+- Implementing and experimenting with YOLO-based CNN architectures for radar object detection
 
 🛠️ **Tech Stack & Tools**  
 <p align="left">
