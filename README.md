@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Ekin Köylü</h1>
-<p align="center"> CS student at Bilkent University</p>
+<p align="center"> Computer Engineering Graduate from Bilkent University</p>
 
 ---
 
 🚀 **Currently Exploring**  
-- Optimizing Vision Transformers for hardware efficiency  
+- Developing high-performance CUDA implementations to reduce the computational bottlenecks of topological loss computation.
+- Investigating privacy-preserving machine learning paradigms through prototype-based Federated Learning frameworks.
 - Implementing and experimenting with YOLO-based CNN architectures for object detection
 ---
 
