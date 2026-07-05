@@ -6,7 +6,7 @@
 🚀 **Currently Exploring**  
 - Developing high-performance CUDA implementations to reduce the computational bottlenecks of topological loss computation.
 - Investigating privacy-preserving machine learning paradigms through prototype-based Federated Learning frameworks.
-- Implementing and experimenting with YOLO-based CNN architectures for object detection.
+- Implementing and experimenting with YOLO-based architectures for object detection.
 ---
 
 🔗 Contact & Links
