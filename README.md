@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ekin Köylü</h1>
-<p align="center"> Computer Engineering Graduate from Bilkent University</p>
+<p align="center"> CS Graduate from Bilkent University</p>
 
 ---
 
